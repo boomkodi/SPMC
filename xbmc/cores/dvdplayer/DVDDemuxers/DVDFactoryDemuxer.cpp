@@ -30,7 +30,7 @@
 #include "DVDDemuxBXA.h"
 #include "DVDDemuxCDDA.h"
 #include "DVDDemuxPVRClient.h"
-#include "DemuxMultiSource.h"
+#include "DVDDemuxMultiSource.h"
 #include "pvr/PVRManager.h"
 #include "pvr/addons/PVRClients.h"
 
